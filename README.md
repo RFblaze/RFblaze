@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RFblaze
+- 👋 Hi, I’m @RFblaze/Angelo Troncone
 - 👀 I’m interested in programming and software engineering
 - 🌱 I’m currently learning C++ and MySQL
 
